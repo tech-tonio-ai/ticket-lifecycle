@@ -13,14 +13,14 @@ In this lab, we will:
 - Create tickets as end users  
 - Observe ticket properties and respond as help desk professionals  
 
-## 2. Ticket Scenarios  
+## Ticket Scenarios  
 
 ### Scenario 1: Critical Banking System Issue  
 #### As an End-User  
 - Create a ticket:  
   **Issue:** Entire mobile/online banking system is down  
 
-#### As a Help Desk Agent (**John**)  
+#### As a Help Desk Agent (**Jorge**)  
 - Observe the ticket’s properties:  
   - **Priority**  
   - **Department**  
@@ -38,12 +38,12 @@ In this lab, we will:
 
 ---
 
-### Scenario 2: Adobe Upgrade Request  
+### Scenario 2: Password Reset
 #### As an End-User  
 - Create a ticket:  
   **Issue:** Accounting department needs an Adobe upgrade (broken)  
 
-#### As a Help Desk Agent (**John**)  
+#### As a Help Desk Agent (**Jorge**)  
 - Observe the ticket’s properties:  
   - **Priority**  
   - **Department**  
@@ -54,8 +54,7 @@ In this lab, we will:
   - **SLA:** Sev-B (4 hours, 24/7)  
   - **Department:** Support  
 
-- Work the ticket to completion as **John**  
-
+- Work the ticket to completion as **Jane**
 ---
 
 ### Scenario 3: CFO Laptop Failure  
@@ -63,7 +62,7 @@ In this lab, we will:
 - Create a ticket:  
   **Issue:** CFO’s laptop will no longer turn on  
 
-#### As a Help Desk Agent (**John**)  
+#### As a Help Desk Agent (**Jorge**)  
 - Observe the ticket’s properties:  
   - **Priority**  
   - **Department**  
@@ -74,4 +73,4 @@ In this lab, we will:
   - **SLA:** Sev-B (4 hours, 24/7)  
   - **Department:** Support  
 
-- Work the ticket to completion as **John**  
+- Work the ticket to completion as **Jorge**  
