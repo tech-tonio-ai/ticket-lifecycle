@@ -7,11 +7,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 .<br />
 
 
-
 ## Overview  
 In this lab, we will:  
 - Create tickets as end users  
-- Observe ticket properties and respond as help desk professionals  
+- Observe ticket properties and respond as help desk professionals
+  <p align="center">
+  <img src="https://i.imgur.com/qNaVszj.png" alt="Image 1" width="45%"/>
+  <img src="https://i.imgur.com/Ym8ShIE.png" alt="Image 2" width="45%"/>
+</p>
 
 ## Ticket Scenarios  
 
@@ -34,7 +37,12 @@ In this lab, we will:
 - Attempt to observe the ticket again as **John**  
   - Can John view or change it?  
 
-- Work the ticket to completion as **Jane**  
+- Work the ticket to completion as **Jane**
+<p align="center">  
+  <img src="https://i.imgur.com/iwZCv0g.png" alt="Image 1" width="45%"/>
+    
+</p>  
+
 
 ---
 
@@ -55,6 +63,11 @@ In this lab, we will:
   - **Department:** Support  
 
 - Work the ticket to completion as **Jane**
+<p align="center">  
+  <img src="https://i.imgur.com/K2Tnalz.png" alt="Image 2" width="45%"/>
+    
+</p>  
+
 ---
 
 ### Scenario 3: CFO Laptop Failure  
@@ -73,4 +86,8 @@ In this lab, we will:
   - **SLA:** Sev-B (4 hours, 24/7)  
   - **Department:** Support  
 
-- Work the ticket to completion as **Jorge**  
+- Work the ticket to completion as **Jorge**
+<p align="center">  
+  <img src="https://i.imgur.com/oVozHjj.png" alt="Image 2" width="45%"/>
+    
+</p>  
