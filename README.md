@@ -13,10 +13,6 @@ In this lab, we will:
 - Create tickets as end users  
 - Observe ticket properties and respond as help desk professionals  
 
-## 1. Department Management  
-- Change the **SysAdmins** department to a **Top-Level Department**  
-- **DELETE** the **Maintenance** department (do not archive)  
-
 ## 2. Ticket Scenarios  
 
 ### Scenario 1: Critical Banking System Issue  
