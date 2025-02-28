@@ -3,8 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-In this lab, we will be creating tickets as end users
-Observing all the ticket properties and responding to them as help desk professionals
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
 .<br />
 
 
