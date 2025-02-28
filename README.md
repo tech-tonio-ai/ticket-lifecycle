@@ -6,49 +6,75 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+## Overview  
+In this lab, we will:  
+- Create tickets as end users  
+- Observe ticket properties and respond as help desk professionals  
 
-<h2>Environments and Technologies Used</h2>
+## 1. Department Management  
+- Change the **SysAdmins** department to a **Top-Level Department**  
+- **DELETE** the **Maintenance** department (do not archive)  
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+## 2. Ticket Scenarios  
 
-<h2>Operating Systems Used </h2>
+### Scenario 1: Critical Banking System Issue  
+#### As an End-User  
+- Create a ticket:  
+  **Issue:** Entire mobile/online banking system is down  
 
-- Windows 10</b> (21H2)
+#### As a Help Desk Agent (**John**)  
+- Observe the ticket’s properties:  
+  - **Priority**  
+  - **Department**  
+  - **SLA**  
+  - **Assigned To**  
 
-<h2>Ticket Lifecycle Stages</h2>
+- Set the ticket properties:  
+  - **SLA:** Sev-A (1 hour, 24/7)  
+  - **Department:** Online Banking  
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Attempt to observe the ticket again as **John**  
+  - Can John view or change it?  
 
-<h2>Lifecycle Stages</h2>
+- Work the ticket to completion as **Jane**  
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+---
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+### Scenario 2: Adobe Upgrade Request  
+#### As an End-User  
+- Create a ticket:  
+  **Issue:** Accounting department needs an Adobe upgrade (broken)  
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+#### As a Help Desk Agent (**John**)  
+- Observe the ticket’s properties:  
+  - **Priority**  
+  - **Department**  
+  - **SLA**  
+  - **Assigned To**  
+
+- Set the ticket properties:  
+  - **SLA:** Sev-B (4 hours, 24/7)  
+  - **Department:** Support  
+
+- Work the ticket to completion as **John**  
+
+---
+
+### Scenario 3: CFO Laptop Failure  
+#### As an End-User  
+- Create a ticket:  
+  **Issue:** CFO’s laptop will no longer turn on  
+
+#### As a Help Desk Agent (**John**)  
+- Observe the ticket’s properties:  
+  - **Priority**  
+  - **Department**  
+  - **SLA**  
+  - **Assigned To**  
+
+- Set the ticket properties:  
+  - **SLA:** Sev-B (4 hours, 24/7)  
+  - **Department:** Support  
+
+- Work the ticket to completion as **John**  
